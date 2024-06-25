@@ -23,6 +23,9 @@ See [FCDN_dataset](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/mai
 
 Please download our pretrained [PWCNet_OFDark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/PWCNet_OFDark) and [FlowNet_OFDark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/FlowNet_OFDark) models and follow the instructions in the original PWC-Net and FlowNet repositories to test the models on our [VBOF_dataset](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/VBOF_dataset).
 
+Now it is implemented in Google Colab in TensorFlow 2.0.
+
+
 ## Citation
 
 ```
