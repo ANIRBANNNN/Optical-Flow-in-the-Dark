@@ -25,6 +25,10 @@ Please download our pretrained [PWCNet_OFDark](https://github.com/mf-zhang/Optic
 
 Now it is implemented in Google Colab in TensorFlow 2.0.
 
+You can get the optical flow prediction code  and evaluation code in Optical_flow_in_dark_implementation(2).
+
+Necessarily replace existing core_warp.py ,dataset_base.py,model_base.py and model_pwcnet.py with files what I have uploaded. I along with colleague Tamal Hansda changed necessary modules so that it can implemented in Tensor Flow 2.0.
+
 
 ## Citation
 
